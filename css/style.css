@@ -1,0 +1,19 @@
+body {
+    background-color: #e4e4e4;
+}
+
+.center {
+    margin: auto;
+}
+
+/*.container .row {
+    height: calc(100vh - 95px);
+}*/
+
+.row {
+    margin: 20px 0;
+}
+
+.footer > nav > span {
+    font-size: 9px;
+}
