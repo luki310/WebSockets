@@ -17,3 +17,38 @@ body {
 .footer > nav > span {
     font-size: 9px;
 }
+
+#chat {
+    padding-bottom: 50px;
+}
+
+#win-chat {
+    background-color: #FFF;
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    margin: 20px 0;
+    overflow: auto;
+    font-size: 14px;
+}
+
+.chatRow {
+    padding: 5px;
+    border-bottom: 1px #e3e4ed doted;
+}
+
+.status {
+    font-style: italic;
+    color: #787;
+    font-size: 13px;
+}
+
+.time {
+    color: #a8a;
+    font-size: 12px;
+}
+
+.name {
+    font-weight: 700;
+    padding-right: 5px;
+}
